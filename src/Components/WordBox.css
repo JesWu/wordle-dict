@@ -1,0 +1,22 @@
+.wordBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3.5rem;
+    background-color: transparent;
+    margin: 1rem;
+    width: 4rem;
+    height: 4rem;
+    border: 1px solid white;
+    border-radius: 1rem;
+    cursor: pointer;
+    user-select: none;
+}
+
+.badBox{
+    background-color: #b59f3b;
+}
+
+.goodBox{
+    background-color: #538d4e;
+}

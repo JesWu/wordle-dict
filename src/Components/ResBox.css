@@ -1,0 +1,15 @@
+.resDiv{
+    border: 1px solid white;
+    border-radius: 1rem;
+    width: clamp(500px, 90%, 1000px);
+    max-height: 85vh;
+    padding: 5px;
+    gap: 5px;
+    overflow-y: auto;
+    scrollbar-width: none;
+    text-align: center;
+}
+
+.resDiv::-webkit-scrollbar{
+    display: none;
+}
