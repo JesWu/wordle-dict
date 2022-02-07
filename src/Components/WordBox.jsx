@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "./WordBox.css";
 
 const WordBox = (props) => {
