@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wordle-dict/static/css/main.9247229a.css",
+    "main.js": "/wordle-dict/static/js/main.2f31b210.js",
+    "static/js/787.078e2dbf.chunk.js": "/wordle-dict/static/js/787.078e2dbf.chunk.js",
+    "index.html": "/wordle-dict/index.html",
+    "static/media/refresh.svg": "/wordle-dict/static/media/refresh.0684a025efc0194499ccfde4f68b7041.svg",
+    "main.9247229a.css.map": "/wordle-dict/static/css/main.9247229a.css.map",
+    "main.2f31b210.js.map": "/wordle-dict/static/js/main.2f31b210.js.map",
+    "787.078e2dbf.chunk.js.map": "/wordle-dict/static/js/787.078e2dbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9247229a.css",
+    "static/js/main.2f31b210.js"
+  ]
+}
